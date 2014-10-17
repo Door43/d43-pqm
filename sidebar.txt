@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pqm:home|Door43 (pqm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pqm|d43-pqm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pqm/archive/master.zip|d43-pqm.zip]]
+
+**Recent Changes**
+{{changes>ns = pqm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pqm|Ethnologue data]]
+
